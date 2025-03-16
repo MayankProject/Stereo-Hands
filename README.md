@@ -1,3 +1,3 @@
 ## - Add a 'Track1.wav' file
 ### Preview
-![new](https://github.com/user-attachments/assets/26527cd5-0adb-4377-949d-b677d332ca65)
+![image](https://github.com/user-attachments/assets/13802a6e-aeb9-48af-ba66-0e1e003340e5)
